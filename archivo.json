@@ -1,0 +1,22 @@
+{
+    "archivo": [
+    {
+    "id": 1,
+    "title": "Technique Guides",
+    "description": "Learn Amazing",
+    "style:": "red"
+    },
+    {
+    "id": 2,
+    "title": "Skills Training",
+    "description": "Learn Secrets",
+    "style:": "blue"
+    },
+    {
+    "id": 3,
+    "title": "Atrenght Training",
+    "description": "Train Anytimes",
+    "style:": "gray"
+    }
+]
+}
